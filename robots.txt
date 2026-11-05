@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://ocdbrothers-thunder-bay.easycrane26.chatgpt.site/sitemap.xml
